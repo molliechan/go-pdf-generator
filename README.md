@@ -1,5 +1,3 @@
-# go-pdf-generator
-
-## Library used: 
+#### Library used: 
 
 https://github.com/SebastiaanKlippert/go-wkhtmltopdf
